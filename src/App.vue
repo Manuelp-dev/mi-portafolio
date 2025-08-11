@@ -1,7 +1,7 @@
 <script setup></script>
 
 <template>
-  <h1>You did it!</h1>
+  <h1>Ejemplo</h1>
   <p>
     Este es mi primer parrafo en vue
   </p>
