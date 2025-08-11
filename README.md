@@ -27,4 +27,4 @@ src/
 
 📬 Contacto
 
-📧 email@profesional.com
+📧 manuelperez0739@gmail.com
