@@ -1,29 +1,30 @@
-# miportafolio
+# Jose Manuel Perez Ascencio | Vue.js Developer Portfolio
 
-This template should help get you started developing with Vue 3 in Vite.
 
-## Recommended IDE Setup
+Portafolio profesional desarrollado con Vue 3, Vite y Tailwind CSS. Demuestra mis proyectos, habilidades y experiencia técnica.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## 🌐 Demo
+🔗 [Ver portafolio en vivo](https://midominio)  
 
-## Customize configuration
+## ✨ Tecnologías
+- **Frontend**: Vue 3, Composition API, Pinia
+- **Build**: Vite
+- **Estilos**: Tailwind CSS
+- **Testing**: Vitest
 
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
-
-```sh
+## 🚀 Cómo ejecutarlo
+```bash
 npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
 npm run dev
-```
 
-### Compile and Minify for Production
+📦 Estructura del proyecto
 
-```sh
-npm run build
-```
+src/
+├── assets/       # Imágenes/fuentes
+├── components/   # Componentes reutilizables
+├── views/        # Páginas principales
+└── store/        # Gestión de estado (Pinia)
+
+📬 Contacto
+
+📧 manuelperez0739@gmail.com
